@@ -1,0 +1,43 @@
+body{
+    background-color: #3b5466;
+    margin:0;
+    text-align: center;
+}
+.heading{
+    font-size: 100px;
+    color: #3EDE83;
+    font-family:cursive;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    column-gap: 200px;
+}
+.p1,.p2{
+    display: inline;
+    font-size: 35px;
+    font-family:'zeyada';
+}
+.third{
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+    padding: 20px;
+}
+.img1,.img2{
+    display: inline;
+    height: 200px;
+}
+
+.fourth{
+    padding-top: 100px;
+}
+h4{
+    display: inline;
+    font-family:'zeyada';
+}
+.bottom1,.bottom2{
+    display: inline;
+    height: 15px;
+}
+
